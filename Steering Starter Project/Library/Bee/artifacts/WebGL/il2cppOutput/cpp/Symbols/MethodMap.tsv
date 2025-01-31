@@ -2905,6 +2905,8 @@ FixupHolderList__ctor_m92FAFE04F36DE9DD2337997B2E81B02693284C8A	System.Void Syst
 FixupHolderList_Add_m31F94721178384C4A942773DACED2FF4E6E0D52D	System.Void System.Runtime.Serialization.FixupHolderList::Add(System.Runtime.Serialization.FixupHolder)	mscorlib
 FixupHolderList_EnlargeArray_mDE5DB273A0AABF630B3599948B1FD19091E7720D	System.Void System.Runtime.Serialization.FixupHolderList::EnlargeArray()	mscorlib
 FlagsAttribute__ctor_m1C9807785E89163EC73CFF1E7AAA9C1098885475	System.Void System.FlagsAttribute::.ctor()	mscorlib
+FollowPath__ctor_m687D6BCDB3DAB246D0854CB3E60F2538ACA21DB0	System.Void FollowPath::.ctor()	Assembly-CSharp
+FollowPath_getSteering_m860871BB22908AAF5B5BB077FC3EA41597964DF5	SteeringOutput FollowPath::getSteering()	Assembly-CSharp
 FormatException__ctor_mF29D430E15E766845220AB94DEE48CFC341A2DFE	System.Void System.FormatException::.ctor()	mscorlib
 FormatException__ctor_mE04AEA59C0EEFF4BD34B7CE8601F9D331D1D473E	System.Void System.FormatException::.ctor(System.String)	mscorlib
 FormatException__ctor_mC5676E4279E9B264450F42CAE47EE7A3F2031B9B	System.Void System.FormatException::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)	mscorlib
@@ -4839,6 +4841,9 @@ Path_IsPathRooted_m0AAA41017FBDDFD52AFC56508EFB5A4195E89C43	System.Boolean Syste
 Path_Join_mA8659405C90B9441AA2249C7D45B587808ABCB3F	System.String System.IO.Path::Join(System.ReadOnlySpan`1<System.Char>,System.ReadOnlySpan`1<System.Char>)	mscorlib
 Path_JoinInternal_mBFDD27EE95CA01278F226C9ECD6DB886052A5B53	System.String System.IO.Path::JoinInternal(System.ReadOnlySpan`1<System.Char>,System.ReadOnlySpan`1<System.Char>)	mscorlib
 Path_get_temp_path_m20CE5DF7F08E6F2E61AAB41A8FEC867911A01CE8	System.String System.IO.Path::get_temp_path()	mscorlib
+PathFinder__ctor_m0AC321660A3BC8CB3548BFD105CEE7DCCDA23F90	System.Void PathFinder::.ctor()	Assembly-CSharp
+PathFinder_Start_mB629BB3185855B677F56BAE10C60C51A3ACF8769	System.Void PathFinder::Start()	Assembly-CSharp
+PathFinder_Update_mFA16139F9E4E6E6B0C54645C1991945CBC548C53	System.Void PathFinder::Update()	Assembly-CSharp
 PathInternal__cctor_mFB96F7ACECF4C3B7B6A1E67EAF52AEDB95D156FD	System.Void System.IO.PathInternal::.cctor()	mscorlib
 PathInternal_EndsInDirectorySeparator_m9F908E3D718B381CE01E488C9460150E920CA2D8	System.Boolean System.IO.PathInternal::EndsInDirectorySeparator(System.ReadOnlySpan`1<System.Char>)	mscorlib
 PathInternal_GetIsCaseSensitive_m1C8DB5AEC8B6C0FC80A4E1100A654E3EE12F6E0F	System.Boolean System.IO.PathInternal::GetIsCaseSensitive()	mscorlib
